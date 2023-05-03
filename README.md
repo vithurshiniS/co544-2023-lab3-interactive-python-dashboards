@@ -1,4 +1,4 @@
-# Interactive Python Dashboards
+# Lab 3: Interactive Python Dashboards
 
 This lab is developed parallel to the CO 544 Machine Learning and Data Mining course at the Department of Computer Engineering, University of Peradeniya, Sri Lanka. The purpose of this lab is to provide hands-on experience in building interactive dashboards using Python to provide a visual representation of complex data in an intuitive and interactive way.
 
@@ -33,3 +33,5 @@ To deploy the dashboard on a cloud platform such as [Heroku](https://www.heroku.
 
 
 ![alt text](./figures/dashboard.png)
+
+**Figure 1.** Screenshot of the dashboard developed using Python Dash, displaying the correlation of two selected features and providing predictions for wine quality based on user input.
