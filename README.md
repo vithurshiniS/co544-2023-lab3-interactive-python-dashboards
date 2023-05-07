@@ -29,7 +29,7 @@ pip install -r requirements.txt
 **Note:** The experiment is done using Jupyter notebook. The `main.ipynb` file is the file that needs to be run using Jupyter Notebook.
 
 ## Deploying the Dashboard
-To deploy the dashboard on a cloud platform such as [Heroku](https://www.heroku.com/), follow the instructions provided in the [Official Dash Documentation](https://dash.plotly.com/deployment).
+To deploy the dashboard on a cloud platform such as [Render](https://render.com/), follow the instructions provided in the [Deploying a Dash Application on Render](https://github.com/thusharabandara/dash-app-render-deployment) repository.
 
 
 ![alt text](./figures/dashboard.png)
